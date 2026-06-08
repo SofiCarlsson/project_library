@@ -3,9 +3,9 @@ The Three-Body Problem,Liu Cixin,0
 The Dark Forest,Liu Cixin,1
 Death's End,Liu Cixin,0
 The Fellowship of the Ring,J. R. R. Tolkien,0
-Don Quixote,Miguel de Cervantes,1
+Don Quijote de la Mancha,Miguel de Cervantes,1
 Robinson Crusoe,Daniel Defoe,1
-1983,George Orwell,0
+1984,George Orwell,0
 To Live,Yu Hua,0
 Strange Tales from a Chinese Studio,Pu Songling,0
 The Duke and I,Julia Quinn,0
