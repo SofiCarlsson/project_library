@@ -7,8 +7,12 @@ using namespace std;
 // Print the menu
 void print_out_menu()
 {
+    cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
+    cout << "                          SOFI'S LIBRARY" << endl;
+    cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
     cout << endl;
-    cout << "Welcome to the library. Choose an option by pressing 1, 2, 3, 4 or 5" << endl;
+    cout << "Choose an option by pressing 1, 2, 3, 4 or 5" << endl;
+
     cout << "1: Add a new book"<< endl;
     cout << "2: Borrow book(s)"<< endl;
     cout << "3: Return book(s)"<< endl;
