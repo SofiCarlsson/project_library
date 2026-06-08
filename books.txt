@@ -15,5 +15,3 @@ Frankenstein,Mary Shelley,0
 A Game of Thrones,George R. R. Martin,0
 A Clash of Kings,George R. R. Martin,0
 A Storm of Swords,George R. R. Martin,0
-
-

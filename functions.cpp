@@ -7,6 +7,7 @@ using namespace std;
 // Print the menu
 void print_out_menu()
 {
+    cout << endl;
     cout << "Welcome to the library. Choose an option by pressing 1, 2, 3, 4 or 5" << endl;
     cout << "1: Add a new book"<< endl;
     cout << "2: Borrow book(s)"<< endl;
@@ -40,7 +41,7 @@ void Book::display_book() const
     cout << "Title: " << get_title() << endl;
     cout << "Author: " << get_author() << endl;
     cout << "Borrowed: " << boolalpha << get_borrowed() << endl; 
-    cout << endl;
+    cout << "______________________________________________________________________"<< endl;
 }
 
 // For borrowing a book

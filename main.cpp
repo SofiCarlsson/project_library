@@ -91,6 +91,7 @@ int main()
 
             // View available books
             case 4:
+                cout << endl;
                 cout << "The available books are: " << endl;
                 my_library.display_available_books();
                 break;
