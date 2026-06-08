@@ -1,0 +1,7 @@
+The Magician's Nephew,C.S. Lewis,0
+The Three-Body Problem,Liu Cixin,0
+The Fellowship of the Ring,J. R. R. Tolkien,0
+Don Quixote,Miguel de Cervantes,1
+Robinson Crusoe,Daniel Defoe,1
+The Dark Forest,Liu Cixin,1
+Death's End,Liu Cixin,0
