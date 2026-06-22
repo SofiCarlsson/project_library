@@ -14,8 +14,8 @@ void print_out_menu()
     cout << "Choose an option by pressing 1, 2, 3, 4 or 5" << endl;
 
     cout << "1: Add a new book"<< endl;
-    cout << "2: Borrow book(s)"<< endl;
-    cout << "3: Return book(s)"<< endl;
+    cout << "2: Borrow book"<< endl;
+    cout << "3: Return book"<< endl;
     cout << "4: View available books"<< endl;
     cout << "5: Exit the program"<< endl;
 }

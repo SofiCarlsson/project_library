@@ -78,13 +78,13 @@ int main()
                 my_library.add_new_book_to_library();
                 break;
 
-            // Lend book(s)
+            // Borrow book
             case 2:
                 my_library.borrow_book_library();
 
                 break;
 
-            // Return book(s)
+            // Return book
             case 3:
                 my_library.return_book_library(); 
                 break;
