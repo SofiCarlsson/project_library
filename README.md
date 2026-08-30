@@ -19,15 +19,11 @@ A terminal-based library management system developed in C++. The library allows 
 <img width="342" height="287" alt="image" src="https://github.com/user-attachments/assets/2caefe26-730a-4e7f-81fb-c553c9b605ae" />
 
 ## Technologies
-C++ 
-
-Object-Oriented Programming (OOP)
-
-Standard Template Library (STL) 
-
-File I/O (text file storage)
-
-Terminal-based application
+- C++ 
+- Object-Oriented Programming (OOP)
+- Standard Template Library (STL) 
+- File I/O (text file storage)
+- Terminal-based application
 
 ## How to Run
 Compile the program:
